@@ -137,13 +137,13 @@ button{
     padding:4px;
     word-spacing:50px;
     margin: 0 ;
-}    
+    
 .btn, a {
   color:black;
   font-family:sans-serif;
   font-weight:bold;
 }
-
+}
 a {
     text-decoration:none;
 }
@@ -250,7 +250,6 @@ footer, p{
   }
   .dropdown:hover .dropdown-content {
     margin-top:-39px;
-  }
   }
   .image{
     margin:0;
