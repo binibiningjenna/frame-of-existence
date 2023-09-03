@@ -246,6 +246,11 @@ footer, p{
   }
   .dropdown {
     font-size:20px;
+    margin-top:50px;
+  }
+  .dropdown:hover .dropdown-content {
+    margin-top:-39px;
+  }
   }
   .image{
     margin:0;
