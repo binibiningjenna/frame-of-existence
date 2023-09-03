@@ -257,22 +257,25 @@ footer, p{
 }
 .jm{
   font-size: 200%;
+  font-family: garamond;
+  font-weight:bold;
 }
 .hello {
   font-size:100%;
+  font-family: garamond;
 }
 .ig {
-  width:41px;
-  height:26px;
+  width:51px;
+  height:36px;
 }
 .fb {
-  width:23px;
-  height:21px;
+  width:33px;
+  height:31px;
   margin: 2px 0 0 0;
 }
 .yt {
-  width:23px;
-  height:21px;
+  width:33px;
+  height:31px;
   margin: 2px 0 0 0;
 }
 .socmed{
@@ -283,7 +286,7 @@ footer, p{
   text-align:center;
 }
 button{
-  font-size:50%;
+  font-size:80%;
   margin-bottom: 50px;
 }
 footer{
@@ -292,7 +295,7 @@ footer{
   height: 6%;
 }
 footer, p{
-  font-size:80%;
+  font-size:100%;
   margin-top:3px;
 }
 }
